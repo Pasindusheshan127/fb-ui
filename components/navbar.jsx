@@ -8,7 +8,7 @@ import { IoStorefrontOutline, IoNotifications } from "react-icons/io5";
 import { CgProfile } from "react-icons/cg";
 
 
-const navbar = () => {
+const Navbar = () => {
 
   return (
      <div className="py-2 px-4 bg-white shadow-md flex justify-between items-center top-0 sticky z-50">
@@ -38,19 +38,19 @@ const navbar = () => {
       </div>
 
       <div className="flex items-center gap-4">
-        <div className="icon_wrapper text-[20px]  bg-gray-200 p-2 rounded-full">
+        <div className=" text-[20px]  bg-gray-200 p-2 rounded-full">
           <CgMenuGridO />
         </div>
 
-        <div className="icon_wrapper text-[20px]  bg-gray-200 p-2 rounded-full">
+        <div className=" text-[20px]  bg-gray-200 p-2 rounded-full">
           <BsMessenger />
         </div>
 
-        <div className="icon_wrapper text-[20px] bg-gray-200 p-2 rounded-full">
+        <div className=" text-[20px] bg-gray-200 p-2 rounded-full">
           <IoNotifications />
         </div>
 
-        <div className="icon_wrapper text-[28px]">
+        <div className=" text-[28px]">
           <CgProfile />
         </div>
     
@@ -60,4 +60,4 @@ const navbar = () => {
   )
 }
 
-export default navbar
+export default Navbar
