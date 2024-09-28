@@ -1,4 +1,4 @@
-import LeftSidebarLink from "./LeftSidebarLink";;
+import LeftSidebarLink from "./LeftSidebarlink";;
 import { BsChevronDown } from "react-icons/bs";
 
 const LeftSidebar = () => {

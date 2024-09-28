@@ -1,5 +1,4 @@
 
-
 const LeftSidebarLink = ({ image, text }) => {
   return (
     <div className="flex items-center gap-3 w-[300px] py-2 pl-1 cursor-pointer hover:bg-gray-300">
