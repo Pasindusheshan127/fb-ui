@@ -7,32 +7,32 @@ const Story = () => {
     {
       title: "Bill Gates",
       img: "/bill_gates.jpg",
-      postImg: "bg-[url(/building.jpg)]",
+      postImg: "bg-[url(/cover.jpeg)]",
     },
     {
       title: "Elon Musk",
       img: "/elon_musk.jpg",
-      postImg: "bg-[url(/gaming_mouse.jpg)]",
+      postImg: "bg-[url(/cover.jpeg)]",
     },
     {
       title: "Bill Gates",
       img: "/bill_gates.jpg",
-      postImg: "bg-[url(/building.jpg)]",
+      postImg: "bg-[url(/cover.jpeg)]",
     },
     {
       title: "Elon Musk",
       img: "/elon_musk.jpg",
-      postImg: "bg-[url(/gaming_mouse.jpg)]",
+      postImg: "bg-[url(/cover.jpeg)]",
     },
     {
       title: "Bill Gates",
       img: "/bill_gates.jpg",
-      postImg: "bg-[url(/building.jpg)]",
+      postImg: "bg-[url(/cover.jpeg)]",
     },
     {
       title: "Elon Musk",
       img: "/elon_musk.jpg",
-      postImg: "bg-[url(/gaming_mouse.jpg)]",
+      postImg: "bg-[url(/cover.jpeg)]",
     },
   ];
 

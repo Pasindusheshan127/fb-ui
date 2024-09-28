@@ -21,10 +21,21 @@ const RightSidebar = () => {
 
           <div className="h-[2px] bg-gray-300 my-5"></div>
 
+          <div className="my-5">
+            <h1 className="font-semibold text-gray-600 text-[18px] ">
+              Birthdays
+            </h1>
+            <div className="flex ">
+            <img src="/gift.png" alt=""  className="size-[20px]"/>
+            <p className="text-primary px-2">Ravindu jayaweera and 8 others have birthday today </p>
+            </div>
+          </div>
+
+          <div className="h-[2px] bg-gray-300 my-5"></div>
+
           <div className="flex items-center justify-between">
             <h1 className="font-semibold text-gray-600 text-[18px]">Contact</h1>
             <div className="flex gap-4">
-              <RiVideoAddFill className="text-gray-600" />
               <BiSearch />
               <BsThreeDots />
             </div>
